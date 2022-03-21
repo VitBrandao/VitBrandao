@@ -4,3 +4,5 @@ My name is Vitor Brandão and I'm a software developer student at [Trybe](https:
 
 ![my-skills](Programming_Skills.png)
 
+<img src="file://Programming_Skills.png" alt="my-skills" width="500" />
+

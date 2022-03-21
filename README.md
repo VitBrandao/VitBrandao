@@ -21,14 +21,17 @@ But to be more precise:
 - **HTML** (Semantic HTML5);
 - **CSS** (Flexbox, Mobile First, Responsive Design).
 
+
 > BACK-END
 - **Node Js** (Insomnia.Rest, Test Frameworks);
 - **MySQL**;
+
 
 > TEST FRAMEWORKS
 - **Jest**;
 - **React Testing Library (RTL)**;
 - **Mocha, Chai and Sinon**.
+
 
 > AND MORE
 - **Docker**;
@@ -36,6 +39,8 @@ But to be more precise:
 - **Adobe Photoshop (Ps)**;
 - More than **5 years of work experience** (in non-technology related areas);
 - **Bachelor's Degree in Journalism** in Universidade do Vale do Rio dos Sinos (Unisinos).
+
+
 
 Contact Information
 ---------

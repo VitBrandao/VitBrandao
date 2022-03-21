@@ -2,7 +2,7 @@
 
 My name is **Vitor Brandão** and I'm a **software developer student** at [Trybe](https://www.betrybe.com/). 
 
-I'm **brazilian** and here are some of the **programming skills** I've been learning since 2020 on this ongoing process:
+I'm **brazilian** and here are some of the **programming skills** I've been learning since **2020** on this ongoing process:
 
 <img src="my-coding-skills.png" alt="my-skills" width="700" height="100" />
 
@@ -22,15 +22,20 @@ But to be more precise:
 - **CSS** (Flexbox, Mobile First, Responsive Design).
 
 > BACK-END
-- **Node Js*;
+- **Node Js** (including test frameworks);
 - **MySQL**;
-- **Docker**.
 
-> TESTING FRAMEWORKS
+> TEST FRAMEWORKS
 - **Jest**;
 - **React Testing Library (RTL)**;
 - **Mocha and Chai**.
 
+> AND MORE
+- **Docker**;
+- **C (programming language)**;
+- **Adobe Photoshop (Ps)**;
+- More than **5 years of work experience** (in non-technology related areas);
+- **Bachelor's Degree in Journalism** in Universidade do Vale do Rio dos Sinos (Unisinos).
 
 Contact Information
 ---------

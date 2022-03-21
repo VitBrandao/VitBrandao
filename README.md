@@ -37,10 +37,17 @@ But to be more precise:
 - **Docker**;
 - **C (programming language)**;
 - **Adobe Photoshop (Ps)**;
+
+> EXPERIENCE
 - More than **5 years of work experience** (in non-technology related areas);
-- **Bachelor's Degree in Journalism** in Universidade do Vale do Rio dos Sinos (Unisinos).
+- **Bachelor's Degree in Journalism** with *first-honours degree* in Universidade do Vale do Rio dos Sinos (Unisinos).
 
+> LANGUAGE PROFICIENCY
+- **Portuguese** (native);
+- **English** (reached 99 points on Toefl ibt test in Oct/2019);
+- **Spanish** (intermediary)
 
+---
 
 Contact Information
 ---------

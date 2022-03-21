@@ -16,19 +16,19 @@ Skills - Full List
 But to be more precise:
 
 > FRONT-END
-- **React** (Redux, Context API, Hooks, React Router);
-- **JavaScript** (ES6, Fetch API, async/await, DOM);
+- **React** (Redux, Context API, Hooks, React Router, Test Frameworks);
+- **JavaScript** (ES6, Fetch API, async/await, DOM, Test Frameworks);
 - **HTML** (Semantic HTML5);
 - **CSS** (Flexbox, Mobile First, Responsive Design).
 
 > BACK-END
-- **Node Js** (including test frameworks);
+- **Node Js** (Insomnia.Rest, Test Frameworks);
 - **MySQL**;
 
 > TEST FRAMEWORKS
 - **Jest**;
 - **React Testing Library (RTL)**;
-- **Mocha and Chai**.
+- **Mocha, Chai and Sinon**.
 
 > AND MORE
 - **Docker**;

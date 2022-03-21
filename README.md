@@ -10,10 +10,32 @@ As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying
 
 Make yourself at home and feel free to search about this skills in my Repositories, because I imagine that to you, as a GitHub user, *codes explain better than words*. 
 
+---
+
+### Skills - Full List
+
+But to be more precise:
+
+> FRONT-END
+- **React** (Redux, Context API, Hooks, React Router);
+- **JavaScript** (ES6, Fetch API, async/await, DOM);
+- **HTML** (Semantic HTML5);
+- **CSS** (Flexbox, Mobile First, Responsive Design);
+
+> BACK-END
+-**Node Js*
+-**MySQL**
+-**Docker**
+
+> TESTING FRAMEWORKS
+- **Jest**
+- **React Testing Library (RTL)**
+- **Mocha and Chai**
+
 
 Contact Information
 ---------
 
-* Here is my **e-mail**: *vitorsbsilva@gmail.com*
+* Here is my **e-mail** to contact me: *vitorsbsilva@gmail.com*
 
-* And here is my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/).** 
+* And here is my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)** so you can find more information about my skills and how to contact me.  

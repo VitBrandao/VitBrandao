@@ -8,7 +8,7 @@ I'm **brazilian** and here are some of the **programming skills** I've been lear
 
 As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. 
 
-Make yourself at home and feel free to search about this skills in my **Repositories**, because I imagine that to you, as a GitHub user, *codes explain better than words*. 
+Make yourself at home and feel free to search about this skills in my **Repositories**, because I imagine that if you are visiting my GitHub my codes may explain better than my words. 
 
 Skills - Full List
 ---------
@@ -16,14 +16,14 @@ Skills - Full List
 But to be more precise:
 
 > FRONT-END
-- **React** (Redux, Context API, Hooks, React Router, Test Frameworks);
-- **JavaScript** (ES6, Fetch API, async/await, DOM, Test Frameworks);
+- **React** (Redux, Context API, Hooks, React Router, Tests);
+- **JavaScript** (ES6, Fetch API, async/await, DOM, Tests);
 - **HTML** (Semantic HTML5);
 - **CSS** (Flexbox, Mobile First, Responsive Design).
 
 
 > BACK-END
-- **Node Js** (Insomnia.Rest, Test Frameworks);
+- **Node Js** (Express, Insomnia.Rest, Tests);
 - **MySQL**;
 
 

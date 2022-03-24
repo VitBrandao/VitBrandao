@@ -36,7 +36,7 @@ But to be more precise:
 > AND MORE
 - **Docker**;
 - **C (programming language)**;
-- **Adobe Photoshop (Ps)**;
+- **GitHub Experience** (including group projects and pair-programming).
 
 > EXPERIENCE
 - More than **5 years of work experience** (in non-technology related areas);

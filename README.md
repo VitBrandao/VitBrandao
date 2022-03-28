@@ -4,7 +4,7 @@ My name is **Vitor Brandão** and I'm a **software developer student** at [Trybe
 
 I'm **brazilian** and here are some of the **programming skills** I've been learning since **2020** on this ongoing process:
 
-<img src="my-coding-skills.png" alt="my-skills" width="700" height="100" />
+<img src="my-skills-template.png" alt="my-skills" width="700" height="100" />
 
 As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. 
 

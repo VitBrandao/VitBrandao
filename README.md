@@ -23,7 +23,7 @@ But to be more precise:
 
 
 > BACK-END
-- **Node Js** (Express, Insomnia.Rest, Tests);
+- **Node Js** (Express, REST API, MSC, Insomnia.Rest, Tests);
 - **MySQL**;
 
 
@@ -35,6 +35,7 @@ But to be more precise:
 
 > AND MORE
 - **Docker**;
+- **Linux Bash (Unix Shell)**;
 - **C (programming language)**;
 - **GitHub Experience** (including group projects and pair-programming).
 

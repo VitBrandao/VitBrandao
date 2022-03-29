@@ -36,7 +36,7 @@ But to be more precise:
 > AND MORE
 - **Docker**;
 - **Linux Bash (Unix Shell)**;
-- **C (programming language)**;
+- **C**;
 - **GitHub Experience** (including group projects and pair-programming).
 
 > EXPERIENCE

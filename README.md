@@ -24,7 +24,7 @@ But to be more precise:
 
 > BACK-END
 - **Node Js** (ORM, Express, Rest API, MSC, JWT, Insomnia.rest, Tests);
-- **MySQL** (mysql2, JOINs, Modelagem BD, Workbench );
+- **MySQL** (mysql2, JOINs, Modelagem BD, Workbench);
 
 
 > TEST FRAMEWORKS

@@ -58,11 +58,11 @@ Olá, seja bem-vindo(a) ao meu **GitHub**!
 
 Me chamo **Vitor Brandão** e sou um estudante de **desenvolvimento de software** da **Trybe**.
 
-A partir das tecnologias e ferramentas listadas nesse arquivo, você pode ver que estou visando a formação como um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End**.
+A partir das tecnologias e ferramentas listadas nesse arquivo, você pode ver que estou visando a formação como um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End** desde que comecei a estudar programação em 2020. 
 
 Sinta-se à vontade para explorar meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
 
-Como o GitHub é uma plataforma conhecida no mundo inteiro, opto por deixá-lo em inglês, da mesma forma que estou acostumado a nomear arquivos e variáveis de meus códigos também em inglês. Mas caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via e-mail ou Linkedin** (onde podemos conversar em português :blush:).
+Como o GitHub é uma plataforma conhecida no mundo inteiro, opto por deixá-lo em inglês, da mesma forma que estou acostumado a nomear arquivos e variáveis de meus códigos também em inglês. Mas caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via e-mail ou Linkedin**, onde podemos conversar em português :blush:.
 
 ---
 

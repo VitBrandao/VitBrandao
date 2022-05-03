@@ -23,7 +23,7 @@ But to be more precise:
 
 
 > BACK-END
-- **Node Js** (ORM, Express, Rest API, MSC, JWT, Insomnia.rest, Tests);
+- **Node Js** (ORM, Express, Rest API, MSC, JWT, Dotenv, Insomnia.rest, Tests);
 - **MySQL** (mysql2, JOINs, Modelagem BD, Workbench);
 
 
@@ -33,11 +33,14 @@ But to be more precise:
 - **Mocha, Chai and Sinon**.
 
 
-> AND MORE
+> DEPLOYMENT
 - **Docker**;
+- **Heroku**.
+
+> AND MORE
 - **Linux Bash (Unix Shell)**;
 - **C**;
-- **GitHub Experience** (including group projects and pair-programming).
+- **GitHub** (including group projects and pair-programming).
 
 > EXPERIENCE
 - More than **5 years of work experience** (in non-technology related areas);

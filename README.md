@@ -40,7 +40,8 @@ But to be more precise:
 > AND MORE
 - **Linux Bash (Unix Shell)**;
 - **C**;
-- **GitHub** (including group projects and pair-programming).
+- **GitHub** (including group projects and pair-programming);
+- Used to code with **ES Lint**.
 
 > EXPERIENCE
 - More than **5 years of work experience** (in non-technology related areas);

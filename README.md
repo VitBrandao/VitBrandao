@@ -24,7 +24,7 @@ But to be more precise:
 
 > BACK-END
 - **Node Js** (ORM, Express, Rest API, MSC, JWT, Dotenv, Insomnia.rest, Tests);
-- **MySQL** (mysql2, JOINs, Modelagem BD, Workbench);
+- **MySQL** (mysql2, JOINs, Workbench);
 
 
 > TEST FRAMEWORKS
@@ -44,12 +44,12 @@ But to be more precise:
 - Used to code with **ES Lint**.
 
 > EXPERIENCE
-- More than **5 years of work experience** (in non-technology related areas);
-- **Bachelor's Degree in Journalism** with *first-honours degree* in Universidade do Vale do Rio dos Sinos (Unisinos).
+- More than **5 years of work experience** (in non-technology related areas). In my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)** you can find more details;
+- **Bachelor's Degree in Journalism** with *first-honours degree* in Universidade do Vale do Rio dos Sinos (**Unisinos**).
 
 > LANGUAGE PROFICIENCY
 - **Portuguese** (native);
-- **English** (reached 99 points on Toefl ibt test in Oct/2019);
+- **English** (99/120 points on Toefl iBT);
 - **Spanish** (intermediary)
 
 ---

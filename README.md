@@ -19,12 +19,15 @@ But to be more precise:
 - **React** (Redux, Context API, Hooks, React Router, Tests);
 - **JavaScript** (ES6, Fetch API, async/await, DOM, Tests);
 - **HTML** (Semantic HTML5);
-- **CSS 3** (Flexbox, Mobile First, Responsive Design).
+- **CSS 3** (Flexbox, Mobile First, Responsive Design);
+- **Adobe Photoshop**.
 
 
 > BACK-END
 - **Node Js** (ORM, Express, Rest API, MSC, JWT, Dotenv, Insomnia.rest, Tests);
-- **MySQL** (mysql2, JOINs, Workbench);
+- **TypeScript** (Oriented Object Programming, SOLID Principles);
+- **MySQL** (mysql2, JOINs, Workbench, Sequelize);
+- **MongoDB** (Mongoose).
 
 
 > TEST FRAMEWORKS

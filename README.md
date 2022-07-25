@@ -2,7 +2,7 @@
 
 My name is **Vitor Brandão** and I'm a **software developer student** at [Trybe](https://www.betrybe.com/). 
 
-I'm **brazilian** and here are some of the **programming skills** I've been learning since **2020** on this ongoing process:
+I'm **brazilian** and here are some of the **programming skills** I've been studying and improving since **2020**:
 
 <img src="my-skills-template.png" alt="my-skills" width="700" height="100" />
 

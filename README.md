@@ -8,7 +8,7 @@ I'm **brazilian** and here are some of the **programming skills** I've been stud
 
 As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. 
 
-Make yourself at home and feel free to search about this skills in my **Repositories**, because I imagine that, if you are visiting my GitHub, my codes may explain better than my words. 
+Make yourself at home and feel free to search about these skills in my **Repositories**, because I imagine that, if you are visiting my GitHub, my codes may explain better than my words. 
 
 Skills - Full List
 ---------
@@ -16,7 +16,7 @@ Skills - Full List
 But to be more precise:
 
 > FRONT-END
-- **React** (Redux, Context API, Hooks, React Router, Tests);
+- **React** (SPA, Redux, Context API, Hooks, React Router, Tests);
 - **JavaScript** (ES6, Fetch API, async/await, DOM, Tests);
 - **HTML** (Semantic HTML5);
 - **CSS 3** (Flexbox, Mobile First, Responsive Design);
@@ -41,10 +41,11 @@ But to be more precise:
 - **Heroku**.
 
 > AND MORE
+- **npm**;
 - **Linux Bash (Unix Shell)**;
 - **C**;
 - **GitHub** (including group projects and pair-programming);
-- **ES Lint**.
+- Used to code with **ES Lint**.
 
 > EXPERIENCE
 - More than **5 years of work experience** (in non-technology related areas). In my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)** you can find more details;

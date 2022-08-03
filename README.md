@@ -1,4 +1,4 @@
-### Hello and welcome! 👋
+### Hello and welcome! 👋 [:brazil:](#português-tradução-resumida) 
 
 My name is **Vitor Brandão** and I'm a **software developer student** at [Trybe](https://www.betrybe.com/). 
 
@@ -57,7 +57,7 @@ But to be more precise:
 - **Spanish** (intermediary)
 
 ---
-## Português (tradução resumida) :brazil:
+## Português (tradução resumida) 
 
 Olá, seja bem-vindo(a) ao meu **GitHub**!
 

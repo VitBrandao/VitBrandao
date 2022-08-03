@@ -7,7 +7,7 @@ I'm **brazilian** and here are some of the **programming skills** I've been stud
 
 <img src="my-skills-template.png" alt="my-skills" width="700" height="100" />
 
-As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End** at [Trybe](https://www.betrybe.com/).
+As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation at [Trybe](https://www.betrybe.com/).
 
 Make yourself at home and feel free to search about these skills in my **Repositories**, because I imagine that, if you are visiting my GitHub, my codes may explain better than my words. 
 

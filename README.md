@@ -44,6 +44,7 @@ But to be more precise:
 > AND MORE
 - **npm**;
 - **Linux Bash (Unix Shell)**;
+- **Windows**;
 - **C**;
 - **GitHub** (including group projects and pair-programming);
 - Used to code with **ES Lint**.

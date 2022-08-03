@@ -1,7 +1,7 @@
 ### Hello and welcome! 👋 
 My name is **Vitor Brandão** and I'm a **software developer student** at [Trybe](https://www.betrybe.com/). 
 
-[Contact Me](#contact-information) | [:brazil: Ler em Português](#português-tradução-resumida) | [Skills - Full List] (#skills-full-list)
+[Contact Me](#contact-information) | [:brazil: Ler em Português](#português-tradução-resumida) | [Skills - Full List](#skills-full-list)
 
 I'm **brazilian** and here are some of the **programming skills** I've been studying and improving since **2020**:
 

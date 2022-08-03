@@ -1,4 +1,4 @@
-### Hello and welcome! 👋 [:brazil:](#português-tradução-resumida) 
+### Hello and welcome! 👋 [:brazil: Ler em Português](#português-tradução-resumida) 
 
 My name is **Vitor Brandão** and I'm a **software developer student** at [Trybe](https://www.betrybe.com/). 
 
@@ -63,7 +63,7 @@ Olá, seja bem-vindo(a) ao meu **GitHub**!
 
 Me chamo **Vitor Brandão** e sou um estudante de **desenvolvimento de software** da **Trybe**.
 
-A partir das tecnologias e ferramentas listadas nesse arquivo, você pode ver que estou visando a formação como um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End** desde que comecei a estudar programação em 2020. 
+A partir das tecnologias e ferramentas listadas logo acima neste arquivo, você pode ver que estou visando a formação como um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End** desde que comecei a estudar programação em 2020. 
 
 Sinta-se à vontade para explorar meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
 

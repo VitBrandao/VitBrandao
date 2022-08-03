@@ -1,4 +1,5 @@
-### Hello and welcome! 👋 [:brazil: Ler em Português](#português-tradução-resumida) 
+### Hello and welcome! 👋 
+[:brazil: Ler em Português](#português-tradução-resumida) 
 
 My name is **Vitor Brandão** and I'm a **software developer student** at [Trybe](https://www.betrybe.com/). 
 

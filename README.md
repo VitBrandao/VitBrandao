@@ -1,5 +1,5 @@
 ### Hello and welcome! 👋 
-My name is **Vitor Brandão** and I'm a **software developer student** at [Trybe](https://www.betrybe.com/). 
+My name is **Vitor Brandão** and I'm a **Full Stack Software Web Developer**. 
 
 [:mailbox: Contact Me](#contact-information) | [:brazil: Ler em Português](#português-tradução-resumida) | [:ballot_box_with_check: Skills - Full List](#skills-full-list)
 
@@ -7,7 +7,7 @@ I'm **brazilian** and here are some of the **programming skills** I've been stud
 
 <img src="my-skills-template.png" alt="my-skills" width="700" height="100" />
 
-As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. 
+As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End** at [Trybe](https://www.betrybe.com/).
 
 Make yourself at home and feel free to search about these skills in my **Repositories**, because I imagine that, if you are visiting my GitHub, my codes may explain better than my words. 
 

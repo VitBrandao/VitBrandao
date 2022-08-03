@@ -77,4 +77,4 @@ Contact Information
 
 * Here is my **e-mail** to contact me: *vitorsbsilva@gmail.com*
 
-* And here is my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)** so you can find more information about my skills and how to contact me.  
+* And here is my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)** where you can find more information about my skills and also contact me.  

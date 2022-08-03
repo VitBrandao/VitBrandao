@@ -1,7 +1,7 @@
 ### Hello and welcome! 👋 
-[:brazil: Ler em Português](#português-tradução-resumida) 
-
 My name is **Vitor Brandão** and I'm a **software developer student** at [Trybe](https://www.betrybe.com/). 
+
+[:brazil: Ler em Português](#português-tradução-resumida) 
 
 I'm **brazilian** and here are some of the **programming skills** I've been studying and improving since **2020**:
 

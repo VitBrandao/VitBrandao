@@ -56,7 +56,7 @@ But to be more precise:
 
 > LANGUAGE PROFICIENCY
 - **Portuguese** (native);
-- **English** (99/120 points on Toefl iBT);
+- **English** (99/120 Toefl iBT);
 - **Spanish** (intermediary)
 
 ---

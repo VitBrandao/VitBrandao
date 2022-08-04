@@ -1,5 +1,5 @@
 ### Hello and welcome! 👋 
-My name is **Vitor Brandão** and I'm a **Full Stack Software Web Developer**. 
+My name is **Vitor Brandão** and I'm a **Full Stack Web Developer**. 
 
 [:mailbox: Contact Me](#contact-information) | [:brazil: Ler em Português](#português-tradução-resumida) | [:ballot_box_with_check: Skills - Full List](#skills---full-list) | [:floppy_disk: Projects](#and-here-are-some-of-my-personal-projects)
 

@@ -28,7 +28,8 @@ But to be more precise:
 - **Node Js** (ORM, Express, Rest API, MSC, JWT, Dotenv, Insomnia.rest, Tests);
 - **TypeScript** (Oriented Object Programming, SOLID Principles);
 - **MySQL** (mysql2, JOINs, Workbench, Sequelize);
-- **MongoDB** (Mongoose).
+- **MongoDB** (Mongoose);
+- **Python**.
 
 
 > TEST FRAMEWORKS
@@ -43,7 +44,7 @@ But to be more precise:
 
 > AND MORE
 - **npm**;
-- **Linux Bash (Unix Shell)**;
+- **Linux (Bash/Unix Shell)**;
 - **Windows**;
 - **C**;
 - **GitHub** (including group projects and pair-programming);

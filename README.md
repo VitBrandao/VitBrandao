@@ -27,7 +27,7 @@ But to be more precise:
 > BACK-END
 - **Node Js** (ORM, Express, Rest API, MSC, JWT, Dotenv, Insomnia.rest, Tests);
 - **TypeScript** (Oriented Object Programming, SOLID Principles);
-- **Python** (REPL, IDLE, Pytest);
+- **Python** (REPL, IDLE, Tests);
 - **MySQL** (mysql2, JOINs, Workbench, Sequelize);
 - **MongoDB** (Mongoose).
 
@@ -35,7 +35,8 @@ But to be more precise:
 > TEST FRAMEWORKS
 - **Jest**;
 - **React Testing Library (RTL)**;
-- **Mocha, Chai and Sinon**.
+- **Mocha, Chai and Sinon**;
+- **Pytest**.
 
 
 > DEPLOYMENT

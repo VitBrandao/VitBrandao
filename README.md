@@ -1,7 +1,7 @@
 ### Hello and welcome! 👋 
 My name is **Vitor Brandão** and I'm a **Full Stack Software Web Developer**. 
 
-[:mailbox: Contact Me](#contact-information) | [:brazil: Ler em Português](#português-tradução-resumida) | [:ballot_box_with_check: Skills - Full List](#skills-full-list) | [:floppy_disk: Projects](#and-here-are-some-of-my-personal-projects)
+[:mailbox: Contact Me](#contact-information) | [:brazil: Ler em Português](#português-tradução-resumida) | [:ballot_box_with_check: Skills - Full List](#skills---full-list) | [:floppy_disk: Projects](#and-here-are-some-of-my-personal-projects)
 
 I'm **brazilian** and here are some of the **programming skills** I've been studying and improving since **2020**:
 

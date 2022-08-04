@@ -29,7 +29,7 @@ But to be more precise:
 - **TypeScript** (Oriented Object Programming, SOLID Principles);
 - **MySQL** (mysql2, JOINs, Workbench, Sequelize);
 - **MongoDB** (Mongoose);
-- **Python**.
+- **Python** (REPL, IDLE, Pytest).
 
 
 > TEST FRAMEWORKS

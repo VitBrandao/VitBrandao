@@ -5,7 +5,7 @@ My name is **Vitor Brandão** and I'm a **Full Stack Software Web Developer**.
 
 I'm **brazilian** and here are some of the **programming skills** I've been studying and improving since **2020**:
 
-<img src="my-skills-template.png" alt="my-skills" width="700" height="100" />
+<img src="my-code-skills.png" alt="my-skills" width="950" height="100" />
 
 As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation at [Trybe](https://www.betrybe.com/).
 

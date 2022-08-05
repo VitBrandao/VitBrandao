@@ -66,7 +66,7 @@ Skills - Full List
 ---
 ## Português (tradução)
 
-### Olá, seja bem-vindo(a) ao meu **GitHub**!
+### Olá, seja bem-vindo(a) ao meu **GitHub**! 👋 
 
 Me chamo **Vitor Brandão** e sou um estudante de **Desenvolvimento Web de Software** da [Trybe](https://www.betrybe.com/).
 

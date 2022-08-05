@@ -43,13 +43,16 @@ Skills - Full List
 - **Docker**;
 - **Heroku**.
 
+
 > AND MORE
 - **npm**;
 - **Linux (Bash/Unix Shell)**;
 - **Windows**;
 - **C**;
 - **GitHub** (including group projects and pair-programming);
-- Used to code with **ES Lint**.
+- **Canva**;
+- I'm very used to code with **ES Lint** and **Flake8**.
+
 
 > EXPERIENCE
 - More than **5 years of work experience** (in non-technology related areas). In my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)** you can find more details;

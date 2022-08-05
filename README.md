@@ -80,13 +80,24 @@ Como o GitHub é uma plataforma conhecida no mundo inteiro, opto por deixá-lo e
 
 ---
 
-Contact Information
+Contact Information (Informações de Contato)
 ---------
 
-* Here is my **e-mail** to contact me: *vitorsbsilva@gmail.com*
+:us: Feel free to contact me anytime.
 
-* And here is my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)** where you can find more information about my skills and also contact me.  
+* Here is my **e-mail** to contact me: *vitorsbsilva@gmail.com*;
+
+* And here is my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**.
+
+
+:brazil: Sinta-se a vontade para entrar em contato comigo.
+
+* Podemos conversar por e-mail: *vitorsbsilva@gmail.com*;
+
+* Ou, se preferir, pelo **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**.
+
+
 ---
 
 And here are some of my personal projects:
----------
+

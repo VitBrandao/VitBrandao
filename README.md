@@ -1,7 +1,7 @@
 ### Hello and welcome! 👋 
 My name is **Vitor Brandão** and I'm a **Full Stack Web Developer**. 
 
-[:mailbox: Contact Me](#contact-information) | [:brazil: Ler em Português](#português-tradução-resumida) | [:ballot_box_with_check: Skills - Full List](#skills---full-list) | [:floppy_disk: Projects](#and-here-are-some-of-my-personal-projects)
+[:brazil: Ler em Português](#português-tradução) | [:mailbox: Contact Me](#contact-information) | [:ballot_box_with_check: Skills - Full List](#skills---full-list) | [:floppy_disk: Projects](#and-here-are-some-of-my-personal-projects)
 
 I'm **brazilian** and here are some of the **programming skills** I've been studying and improving since **2020**:
 
@@ -61,15 +61,15 @@ Skills - Full List
 - **Spanish** (intermediary)
 
 ---
-## Português (tradução resumida) 
+## Português (tradução)
 
-Olá, seja bem-vindo(a) ao meu **GitHub**!
+### Olá, seja bem-vindo(a) ao meu **GitHub**!
 
-Me chamo **Vitor Brandão** e sou um estudante de **desenvolvimento de software** da **Trybe**.
+Me chamo **Vitor Brandão** e sou um estudante de **Desenvolvimento Web de Software** da [Trybe](https://www.betrybe.com/).
 
 A partir das tecnologias e ferramentas listadas logo acima neste arquivo, você pode ver que estou visando a formação como um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End** desde que comecei a estudar programação em 2020. 
 
-Sinta-se à vontade para explorar meus projetos em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
+Sinta-se à vontade para explorar meus **projetos** em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
 
 Caso você esteja se perguntando: **"O que são exatamente os projetos** que você se refere?", eu explico. A formação em Desenvolvimento Web da Trybe é um curso de **30 horas semanais** (6h/dia), com duração de 1 ano, onde não apenas aprendemos as competências, mas também precisamos **consolidar esse conhecimento**. É nesse contexto que entram os projetos aos quais me refiro. Cada projeto possui uma lista de requisitos a serem cumpridos e **um prazo de uma semana para que 80% do projeto seja entregue**. Ao longo dessa jornada de aprendizado, desenvolvi cerca de **40 projetos sem pegar recuperação** uma única vez, ou seja, todos os projetos que você encontra em meus Repositórios foram desenvolvidos no período de uma semana - geralmente, a mesma semana em que o conteúdo foi ensinado. 
 

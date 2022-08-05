@@ -74,7 +74,9 @@ A partir das tecnologias e ferramentas listadas logo acima neste arquivo, você 
 
 Sinta-se à vontade para explorar meus **projetos** em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
 
-Caso você esteja se perguntando: **"O que são exatamente os projetos** que você se refere?", eu explico. A formação em Desenvolvimento Web da Trybe é um curso de **30 horas semanais** (6h/dia), com duração de 1 ano, onde não apenas aprendemos as competências, mas também precisamos **consolidar esse conhecimento**. É nesse contexto que entram os projetos aos quais me refiro. Cada projeto possui uma lista de requisitos a serem cumpridos e **um prazo de uma semana para que 80% do projeto seja entregue**. Ao longo dessa jornada de aprendizado, desenvolvi cerca de **40 projetos sem pegar recuperação** uma única vez, ou seja, todos os projetos que você encontra em meus Repositórios foram desenvolvidos no período de uma semana - geralmente, a mesma semana em que o conteúdo foi ensinado. 
+Caso você esteja se perguntando: **"O que são exatamente os projetos** que você se refere?", eu explico. A formação em Desenvolvimento Web da Trybe é um curso de **30 horas semanais** (6h/dia), com duração de 1 ano, onde não apenas aprendemos as competências, mas também precisamos **consolidar esse conhecimento**. É nesse contexto que entram os projetos aos quais me refiro. Cada projeto possui uma lista de requisitos a serem cumpridos e **um prazo de uma semana para que 80% do projeto seja entregue**. 
+
+Ao longo dessa jornada de aprendizado, desenvolvi cerca de **40 projetos dentro do prazo estabelecido**, ou seja, todos os projetos que você encontra em meus Repositórios foram desenvolvidos no período de uma semana - geralmente, a mesma semana em que o conteúdo foi ensinado. 
 
 Como o GitHub é uma plataforma conhecida no mundo inteiro, opto por deixá-lo em inglês, da mesma forma que estou acostumado a nomear arquivos e variáveis de meus códigos também em inglês. Mas caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via e-mail ou Linkedin**, onde podemos conversar em português :blush:.
 
@@ -100,4 +102,4 @@ Contact Information (Informações de Contato)
 ---
 
 And here are some of my personal projects:
-
+---------

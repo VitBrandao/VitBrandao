@@ -32,7 +32,7 @@ Skills - Full List
 - **MongoDB** (Mongoose).
 
 
-> TEST FRAMEWORKS
+> TESTS
 - **Jest**;
 - **React Testing Library (RTL)**;
 - **Mocha, Chai and Sinon**;

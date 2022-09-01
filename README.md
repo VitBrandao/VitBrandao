@@ -11,8 +11,6 @@ Como você pode perceber, estou visando a formação como um **Desenvolvedor Ful
 
 Sinta-se à vontade para explorar meus **projetos** em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 Caso você esteja se perguntando: **"O que são exatamente os projetos** que você se refere?", eu explico. A formação em Desenvolvimento Web da Trybe é um curso de **30 horas semanais** (6h/dia), com duração de 1 ano, onde não apenas aprendemos as competências, mas também precisamos **consolidar esse conhecimento**. É nesse contexto que entram os projetos aos quais me refiro. Cada projeto possui uma lista de requisitos a serem cumpridos e **um prazo de uma semana para que 80% do projeto seja entregue**. 
 
 Ao longo dessa jornada de aprendizado, desenvolvi cerca de **40 projetos dentro do prazo estabelecido**, ou seja, todos os projetos que você encontra em meus Repositórios foram desenvolvidos no período de uma semana - geralmente, a mesma semana em que o conteúdo foi ensinado. 
@@ -59,6 +57,7 @@ Skills
 - **Canva**;
 - Estou acostumado a desenvolver utilizando **ES Lint** e **Flake8**.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > EXPERIÊNCIA PROFISSIONAL
 - Possuo mais de 5 anos de experiência prévia no mercado de trabalho, em áreas não-relacionadas à tecnologia. Acessando meu **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**, você pode encontrar mais informações. 

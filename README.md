@@ -72,9 +72,11 @@ Skills
 ---
 ## :us: Hello and welcome!
 
-I'm **brazilian** and right are some of the **programming skills** I've been studying and improving since **2020** [Check the Full Skills List](#skills);
+I'm **brazilian** and right are some of the **programming skills** I've been studying and improving since **2020**:
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
+
+[Check the Full Skills List](#skills);
 
 As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation at [Trybe](https://www.betrybe.com/). In my Repositories you can find all the projects I have developed in this last year.
 

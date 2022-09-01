@@ -50,7 +50,7 @@ Skills
 - **Heroku**.
 
 
-> AND MORE
+> OUTRAS TECNOLOGIAS 
 - **npm**;
 - **Linux (Bash/Unix Shell)**;
 - **Windows**;

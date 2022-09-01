@@ -7,6 +7,8 @@ Para ir direto ao ponto, aqui estão as **tecnologias** que venho estudando e pr
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 
+[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBrandao)](https://github.com/anuraghazra/github-readme-stats)
+
 Como você pode perceber, estou visando a formação como um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End** desde que comecei a estudar programação em 2020. 
 
 Sinta-se à vontade para explorar meus **projetos** em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 

@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a) ao meu GitHub! :wave:
+### Olá, Seja Bem-vindo(a) ao meu GitHub! :wave:
 Me chamo **Vitor Brandão** e sou um estudante de **Desenvolvimento Web de Software** da [Trybe](https://www.betrybe.com/).
 
 [:us: English Translation](#us-hello-and-welcome) | [:mailbox: Contato](#informações-de-contato) | [:ballot_box_with_check: Skills - Lista Completa](#skills) | [:floppy_disk: Projetos](#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)

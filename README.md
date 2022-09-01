@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a) ao meu GitHub! 
+### :br: Olá, seja bem-vindo(a) ao meu GitHub! 
 Me chamo **Vitor Brandão** e sou um estudante de **Desenvolvimento Web de Software** da [Trybe](https://www.betrybe.com/).
 
 [:us: English Translation](#hello-and-welcome) | [:mailbox: Contato](#informações-de-contato) | [:ballot_box_with_check: Skills - Lista Completa](#skills) | [:floppy_disk: Projetos](#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)
@@ -68,7 +68,7 @@ Skills
 - **Espanhol** (intermediário).
 
 ---
-## Hello and welcome!
+## :us: Hello and welcome!
 
 I'm **brazilian** and right above in this file you will can find some of the **programming skills** I've been studying and improving since **2020**.
 

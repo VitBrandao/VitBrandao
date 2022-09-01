@@ -11,6 +11,8 @@ Como você pode perceber, estou visando a formação como um **Desenvolvedor Ful
 
 Sinta-se à vontade para explorar meus **projetos** em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Caso você esteja se perguntando: **"O que são exatamente os projetos** que você se refere?", eu explico. A formação em Desenvolvimento Web da Trybe é um curso de **30 horas semanais** (6h/dia), com duração de 1 ano, onde não apenas aprendemos as competências, mas também precisamos **consolidar esse conhecimento**. É nesse contexto que entram os projetos aos quais me refiro. Cada projeto possui uma lista de requisitos a serem cumpridos e **um prazo de uma semana para que 80% do projeto seja entregue**. 
 
 Ao longo dessa jornada de aprendizado, desenvolvi cerca de **40 projetos dentro do prazo estabelecido**, ou seja, todos os projetos que você encontra em meus Repositórios foram desenvolvidos no período de uma semana - geralmente, a mesma semana em que o conteúdo foi ensinado. 
@@ -19,8 +21,6 @@ Como o GitHub é uma plataforma conhecida no mundo inteiro, opto por deixá-lo e
 
 Skills
 ---------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > FRONT-END
 - **React** (SPA, Redux, Context API, Hooks, React Router, Tests);
@@ -72,7 +72,9 @@ Skills
 ---
 ## :us: Hello and welcome!
 
-I'm **brazilian** and right above in this file you will can find some of the **programming skills** I've been studying and improving since **2020**.
+I'm **brazilian** and right are some of the **programming skills** I've been studying and improving since **2020** [Check the Full Skills List](#skills);
+
+<img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 
 As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation at [Trybe](https://www.betrybe.com/). In my Repositories you can find all the projects I have developed in this last year.
 

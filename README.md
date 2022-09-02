@@ -3,6 +3,12 @@ Me chamo **Vitor Brandão** e sou um estudante de **Desenvolvimento Web de Softw
 
 [:us: English Translation](#us-hello-and-welcome) | [:mailbox: Contato](#informações-de-contato) | [:ballot_box_with_check: Skills - Lista Completa](#skills) | [:floppy_disk: Projetos](#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)
 
+[<img alt="English" src="https://img.shields.io/badge/-English_Translation-000000?style=flat-square&&color=informational&logo=&logoColor=white">](#us-hello-and-welcome)
+[<img alt="Contato" src="https://img.shields.io/badge/-Contato-000000?style=flat-square&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
+[<img alt="Skills" src="https://img.shields.io/badge/-Skills_-_Lista_Completa-000000?style=flat-square&&color=9cs&logo=&logoColor=white">](#skills)
+[<img alt="Projetos" src="https://img.shields.io/badge/-Projetos-000000?style=flat-square&&color=light-grey&logo=&logoColor=white">]#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)
+
+
 Para ir direto ao ponto, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação em **2020**:
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
@@ -75,7 +81,7 @@ I'm **brazilian** and right are some of the **programming skills** I've been stu
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 
-[<img alt="Portfolio" src="https://img.shields.io/badge/-Full_List_of_Skills-000000?style=flat-square&&color=blue&logo=&logoColor=white">](#skills)
+[<img alt="Skills" src="https://img.shields.io/badge/-Full_List_of_Skills-000000?style=flat-square&&color=blue&logo=&logoColor=white">](#skills)
 
 
 As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation at [Trybe](https://www.betrybe.com/). In my Repositories you can find all the projects I have developed in this last year.

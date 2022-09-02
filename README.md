@@ -5,6 +5,8 @@ Me chamo **Vitor Brandão** e sou um estudante de **Desenvolvimento Web de Softw
 [<img alt="Contato" src="https://img.shields.io/badge/-Contato-000000?style=flat-square&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
 [<img alt="Skills" src="https://img.shields.io/badge/-Stacks_&_Skills-000000?style=flat-square&&color=9cf">](#skills)
 [<img alt="Projetos" src="https://img.shields.io/badge/-Projetos-000000?style=flat-square&&color=inactive">](#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)
+[<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=flat-square&&color=blue">](https://www.linkedin.com/in/vitorbrandao-silva/)
+[<img alt="MostUsed" src="https://img.shields.io/badge/-Stacks_Mais_Utilizadas-000000?style=flat-square&&color=lightgrey">](#stacks-mais-utilizadas)
 
 
 Para ir direto ao ponto, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação em **2020**:
@@ -61,6 +63,7 @@ Skills
 - **Canva**;
 - Estou acostumado a desenvolver utilizando **ES Lint** e **Flake8**.
 
+> STACK MAIS UTILIZADAS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > EXPERIÊNCIA PROFISSIONAL

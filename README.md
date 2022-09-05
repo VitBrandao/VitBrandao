@@ -29,6 +29,13 @@ Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+> BACK-END
+- **Node Js** (ORM, Express, Rest API, MVC, JWT, Dotenv, Insomnia.rest, Tests);
+- **TypeScript** (Oriented Object Programming, SOLID Principles);
+- **Python** (.Venv, Json, Xml, Csv, REPL, IDLE, Tests);
+- **MySQL** (Sequelize, mysql2, JOINs, Workbench);
+- **MongoDB** (Mongoose).
+
 
 > FRONT-END
 - **React** (SPA, Redux, Context API, Hooks, React Router, Tests);
@@ -36,14 +43,6 @@ Skills
 - **HTML** (Semantic HTML5);
 - **CSS 3** (Flexbox, Mobile First, Responsive Design);
 - **Adobe Photoshop**.
-
-
-> BACK-END
-- **Node Js** (ORM, Express, Rest API, MVC, JWT, Dotenv, Insomnia.rest, Tests);
-- **TypeScript** (Oriented Object Programming, SOLID Principles);
-- **Python** (.Venv, Json, Xml, Csv, REPL, IDLE, Tests);
-- **MySQL** (Sequelize, mysql2, JOINs, Workbench);
-- **MongoDB** (Mongoose).
 
 
 > TESTS

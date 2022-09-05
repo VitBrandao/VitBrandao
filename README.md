@@ -1,4 +1,4 @@
-# Olá, Seja Bem-vindo(a) ao meu GitHub! :wave:
+# Olá, seja bem-vindo(a) ao meu GitHub! :wave:
 Me chamo **Vitor Brandão** e sou um **Desenvolvedor Full Stack**, prestes a concluir o curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/).
 
 [<img alt="English" src="https://img.shields.io/badge/-English_Translation-000000?style=for-the-badge&&color=informational&logo=&logoColor=white">](#us-hello-and-welcome-wave)

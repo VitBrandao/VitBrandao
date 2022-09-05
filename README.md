@@ -29,7 +29,7 @@ Skills
 
 > BACK-END
 - **Node.Js** (ORM, Express, Rest API, MVC, JWT, Dotenv, Insomnia.rest, Tests);
-- **TypeScript** (Oriented Object Programming, SOLID Principles);
+- **TypeScript** (Oriented Object Programming, SOLID);
 - **Python** (.Venv, Json, Xml, Csv, REPL, IDLE, Tests);
 - **MySQL** (Sequelize, mysql2, JOINs, Workbench);
 - **MongoDB** (Mongoose).

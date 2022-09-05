@@ -1,11 +1,11 @@
 ### Olá, Seja Bem-vindo(a) ao meu GitHub! :wave:
 Me chamo **Vitor Brandão** e sou um estudante de **Desenvolvimento Web de Software** da [Trybe](https://www.betrybe.com/).
 
-[<img alt="English" src="https://img.shields.io/badge/-English_Translation-000000?style=flat-square&&color=informational&logo=&logoColor=white">](#us-hello-and-welcome)
-[<img alt="Contato" src="https://img.shields.io/badge/-Contato-000000?style=flat-square&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
-[<img alt="Skills" src="https://img.shields.io/badge/-Stacks_&_Skills-000000?style=flat-square&&color=9cf">](#skills)
-[<img alt="Projetos" src="https://img.shields.io/badge/-Projetos-000000?style=flat-square&&color=inactive">](#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)
-[<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=flat-square&&color=blue">](https://www.linkedin.com/in/vitorbrandao-silva/)
+[<img alt="English" src="https://img.shields.io/badge/-English_Translation-000000?style=for-the-badge&&color=informational&logo=&logoColor=white">](#us-hello-and-welcome)
+[<img alt="Contato" src="https://img.shields.io/badge/-Contato-000000?style=for-the-badge&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
+[<img alt="Skills" src="https://img.shields.io/badge/-Stacks_&_Skills-000000?style=for-the-badge&&color=9cf">](#skills)
+[<img alt="Projetos" src="https://img.shields.io/badge/-Projetos-000000?style=for-the-badge&&color=inactive">](#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)
+[<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&&color=blue">](https://www.linkedin.com/in/vitorbrandao-silva/)
 
 
 Para ir direto ao ponto, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação em **2020**:

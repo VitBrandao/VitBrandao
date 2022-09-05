@@ -63,6 +63,7 @@ Skills
 - Estou acostumado a desenvolver utilizando **ES Lint** e **Flake8**.
 
 > LINGUAGENS MAIS UTILIZADAS
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > EXPERIÊNCIA PROFISSIONAL

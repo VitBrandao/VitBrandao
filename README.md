@@ -25,12 +25,10 @@ Como o GitHub é uma plataforma conhecida no mundo inteiro, opto por deixá-lo e
 Skills
 ---------
 
-> LINGUAGENS MAIS UTILIZADAS
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > BACK-END
-- **Node Js** (ORM, Express, Rest API, MVC, JWT, Dotenv, Insomnia.rest, Tests);
+- **Node.Js** (ORM, Express, Rest API, MVC, JWT, Dotenv, Insomnia.rest, Tests);
 - **TypeScript** (Oriented Object Programming, SOLID Principles);
 - **Python** (.Venv, Json, Xml, Csv, REPL, IDLE, Tests);
 - **MySQL** (Sequelize, mysql2, JOINs, Workbench);

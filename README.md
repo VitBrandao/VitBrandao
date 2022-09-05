@@ -2,7 +2,7 @@
 Me chamo **Vitor Brandão** e sou um **Desenvolvedor Full Stack**, prestes a concluir o curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/).
 
 [<img alt="English" src="https://img.shields.io/badge/English_Translation-000000?style=for-the-badge&&color=informational">](#us-hello-and-welcome-wave)
-[<img alt="Contato" src="https://img.shields.io/badge/-Contato-000000?style=for-the-badge&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
+[<img alt="Contato" src="https://img.shields.io/badge/-Contato-000000?style=for-the-badge&logo=appveyor&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
 [<img alt="Skills" src="https://img.shields.io/badge/-Stacks_&_Skills-000000?style=for-the-badge&&color=9cf">](#skills)
 [<img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive">](#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)
 [<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&&color=blue">](https://www.linkedin.com/in/vitorbrandao-silva/)

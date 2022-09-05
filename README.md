@@ -40,7 +40,6 @@ Skills
 - **JavaScript** (ES6, Fetch API, async/await, DOM, Tests);
 - **HTML** (Semantic HTML5);
 - **CSS 3** (Flexbox, Mobile First, Responsive Design);
-- **Adobe Photoshop**.
 
 
 > TESTS
@@ -61,6 +60,7 @@ Skills
 - **GitHub** (incluindo trabalhos em grupo e projetos em dupla);
 - **Linux (Bash/Unix Shell)**;
 - **Windows**;
+- **Adobe Photoshop**.
 - **Canva**;
 - Estou acostumado a desenvolver utilizando **ES Lint** e **Flake8**.
 

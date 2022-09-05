@@ -55,10 +55,10 @@ Skills
 
 > OUTRAS TECNOLOGIAS 
 - **npm**;
-- **Linux (Bash/Unix Shell)**;
-- **Windows**;
 - **C**;
 - **GitHub** (incluindo trabalhos em grupo e projetos em dupla);
+- **Linux (Bash/Unix Shell)**;
+- **Windows**;
 - **Canva**;
 - Estou acostumado a desenvolver utilizando **ES Lint** e **Flake8**.
 

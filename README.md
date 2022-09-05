@@ -83,7 +83,7 @@ My name is **Vitor Brandão**, I'm **brazilian** and right are some of the **pro
 [<img alt="Skills" src="https://img.shields.io/badge/-Full_List_of_Skills-000000?style=for-the-badge&&color=9cf">](#skills)
 
 
-As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my **Full Stack formation at [Trybe](https://www.betrybe.com/)**. In my Repositories you can find all the projects I have developed in this last year.
+As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation **at [Trybe](https://www.betrybe.com/)**. In my Repositories you can find all the projects I have developed in this last year.
 
 And you might ask: "But what are those projects you talk about?". Well, let me explain it better. The Web Development course at Trybe, whose duration lasts 1 year (30 hours/week), requires that students **not only learn the stacks but also practice them**. A Trybe Project is a GitHub Repository with test coverage whose ReadMe contains a **list of requirements** to be accomplished **within a week**. I'm very proud to say that I have successfully delivered **40 projects** before the deadline - not to mention that the projects were usually developed in the same week that the content was taught.    
 

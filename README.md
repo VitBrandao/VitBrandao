@@ -67,7 +67,7 @@ Skills
 
 > EXPERIÊNCIA PROFISSIONAL
 - Possuo mais de 5 anos de experiência prévia no mercado de trabalho, em áreas não-relacionadas à tecnologia. Acessando meu **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**, você pode encontrar mais informações. 
-- **Bacharelado em Jornalismo** com **distinção de primeiro grau** (Média final > 8,5), na Universidade do Vale do Rio dos Sinos (**Unisinos**).
+- **Bacharelado em Jornalismo** com distinção de primeiro grau, na Universidade do Vale do Rio dos Sinos (**Unisinos**).
 
 > IDIOMAS
 - **Português** (nativo);

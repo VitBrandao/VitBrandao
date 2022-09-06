@@ -77,7 +77,7 @@ Skills
 ---
 # :us: Hello and welcome! :wave:
 
-My name is **Vitor Brandão**, I'm **brazilian** and here are some of the **programming skills** I've been studying and improving since **2020**:
+### My name is **Vitor Brandão**, I'm **brazilian** and here are some of the **programming skills** I've been studying and improving since **2020**:
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 

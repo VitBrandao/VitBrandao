@@ -93,7 +93,7 @@ Informações de Contato
 
 * Podemos conversar por e-mail: *vitorsbsilva@gmail.com*;
 
-* Ou, se preferir, pelo **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**. |  
+* Ou, se preferir, pelo **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**. 
 
 
 :us: Feel free to **contact** me anytime.

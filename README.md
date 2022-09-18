@@ -64,10 +64,6 @@ Skills
 - Estou acostumado a desenvolver utilizando **ES Lint** e **Flake8**.
 
 
-> EXPERIÊNCIA PROFISSIONAL
-- Possuo mais de 5 anos de experiência prévia no mercado de trabalho, em áreas não-relacionadas à tecnologia. Acessando meu **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**, você pode encontrar mais informações. 
-- **Bacharelado em Jornalismo** com distinção de primeiro grau, na Universidade do Vale do Rio dos Sinos (**Unisinos**).
-
 > IDIOMAS
 - **Português** (nativo);
 - **Inglês** (99/120 Toefl iBT);
@@ -88,15 +84,6 @@ As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying
 And you might ask: "But what are those projects you talk about?". Well, let me explain it better. The Web Development course at Trybe, whose duration lasts 1 year (30 hours/week), requires that students **not only learn the stacks but also practice them**. A Trybe Project is a GitHub Repository with test coverage whose ReadMe contains a **list of requirements** to be accomplished **within a week**. I'm very proud to say that I have successfully delivered **40 projects** before the deadline - not to mention that the projects were usually developed in the same week that the content was taught.    
 
 Make yourself at home and feel free to search about these skills in my **Repositories**, because I imagine that, if you are visiting my GitHub, my codes may explain better than my words. 
-
-> EXPERIENCE
-- More than **5 years of work experience** (in non-technology related areas). In my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)** you can find more details;
-- **Bachelor's Degree in Journalism** with *first-honours degree* in Universidade do Vale do Rio dos Sinos (**Unisinos**).
-
-> LANGUAGE PROFICIENCY
-- **Portuguese** (native);
-- **English** (99/120 Toefl iBT);
-- **Spanish** (intermediary)
 
 ---
 

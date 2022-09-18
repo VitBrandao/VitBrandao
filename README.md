@@ -24,7 +24,7 @@ Como o GitHub é uma plataforma conhecida no mundo inteiro, opto por deixá-lo e
 
 Skills
 ---------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&langs_count=6&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&langs_count=9&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
 
 > BACK-END

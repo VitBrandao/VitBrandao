@@ -91,9 +91,9 @@ Informações de Contato
 ---------
 :brazil: Sinta-se a vontade para entrar em contato comigo. | :us: Feel free to **contact** me anytime.
 
-* Podemos conversar por e-mail: *vitorsbsilva@gmail.com*; | Here is my **e-mail** to contact me: *vitorsbsilva@gmail.com*;
+* :brazil:  Podemos conversar por e-mail: *vitorsbsilva@gmail.com*; | :us: Here is my **e-mail** to contact me: *vitorsbsilva@gmail.com*;
 
-* Ou, se preferir, pelo **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**. | And here is my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**.
+* :brazil: Ou, se preferir, pelo **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**. | :us: And here is my **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**.
 
 ---
 

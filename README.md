@@ -89,9 +89,9 @@ Make yourself at home and feel free to search about these skills in my **Reposit
 
 Informações de Contato
 ---------
-:brazil: Sinta-se a vontade para entrar em contato comigo. | 
+:brazil: Sinta-se a vontade para entrar em contato comigo.
 
-* Podemos conversar por e-mail: *vitorsbsilva@gmail.com*; | 
+* Podemos conversar por e-mail: *vitorsbsilva@gmail.com*;
 
 * Ou, se preferir, pelo **[Linkedin](https://www.linkedin.com/in/vitorbrandao-silva/)**. |  
 

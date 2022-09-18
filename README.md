@@ -24,7 +24,7 @@ Como o GitHub é uma plataforma conhecida no mundo inteiro, opto por deixá-lo e
 
 Skills
 ---------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&langs_count=10&layout=tokyonight&exclude_repo=Python-TING-Project)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&langs_count=10&theme=tokyonight&exclude_repo=Python-TING-Project)](https://github.com/anuraghazra/github-readme-stats)
 
 > BACK-END
 - **Node.Js** (ORM, Express, Rest API, MVC, JWT, Dotenv, Insomnia.rest, Tests);

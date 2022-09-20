@@ -4,7 +4,7 @@
 [<img alt="English" src="https://img.shields.io/badge/English_Translation-000000?style=for-the-badge&&color=informational">](#us-hello-and-welcome-wave)
 [<img alt="Contato" src="https://img.shields.io/badge/-Contato-000000?style=for-the-badge&logo=appveyor&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
 [<img alt="Skills" src="https://img.shields.io/badge/-Stacks_&_Skills-000000?style=for-the-badge&&color=9cf">](#skills)
-[<img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive">](#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)
+[<img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive">](#projetos)
 [<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&&color=critical">](https://www.linkedin.com/in/vitorbrandao-silva/)
 
 Para ir direto ao ponto, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação em **2020**:
@@ -102,12 +102,13 @@ Informações de Contato
 
 ---
 
-E aqui estão alguns dos projetos que já desenvolvi:
+Projetos
 ---------
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=NodeJs-Sequelize-Store-Manager-2.0-Project)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=TypeScript-MongoDB-Car-Shop-Project)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=Python-Tech-News-Project)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=React-Redux-Trivia-Group-Project)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=Delivery-App-Full-Stack-Group-Project )](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=MySQL-One-For-All-Project)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=HTML-CSS-Js-Trybewarts-Project)](https://github.com/anuraghazra/github-readme-stats)
+

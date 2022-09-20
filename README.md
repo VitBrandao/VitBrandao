@@ -7,12 +7,11 @@
 [<img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive">](#e-aqui-estão-alguns-dos-projetos-que-já-desenvolvi)
 [<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&&color=critical">](https://www.linkedin.com/in/vitorbrandao-silva/)
 
-
 Para ir direto ao ponto, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação em **2020**:
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 
-Como você pode perceber, estou visando a formação como um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End** desde que comecei a estudar programação em 2020. 
+Como você pode perceber, estou visando a formação como um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End**. 
 
 Sinta-se à vontade para explorar meus **projetos** em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
 
@@ -78,8 +77,7 @@ Skills
 
 [<img alt="Skills" src="https://img.shields.io/badge/-Full_List_of_Skills-000000?style=for-the-badge&&color=9cf">](#skills)
 
-
-As you can see, I am aiming to be a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation **at [Trybe](https://www.betrybe.com/)**. In my Repositories you can find all the projects I have developed in this last year.
+As you can see, I am a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation **at [Trybe](https://www.betrybe.com/)**. In my Repositories you can find all the projects I have developed in this last year.
 
 And you might ask: "But what are those projects you talk about?". Well, let me explain it better. The Web Development course at Trybe, whose duration lasts 1 year (30 hours/week), requires that students **not only learn the stacks but also practice them**. A Trybe Project is a GitHub Repository with test coverage whose ReadMe contains a **list of requirements** to be accomplished **within a week**. I'm very proud to say that I have successfully delivered **40 projects** before the deadline - not to mention that the projects were usually developed in the same week that the content was taught.    
 

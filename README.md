@@ -104,3 +104,5 @@ Informações de Contato
 
 E aqui estão alguns dos projetos que já desenvolvi:
 ---------
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=NodeJs-Sequelize-Store-Manager-2.0-Project)](https://github.com/anuraghazra/github-readme-stats)

@@ -108,7 +108,7 @@ Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=NodeJs-Sequelize-Store-Manager-2.0-Project)](https://github.com/VitBrandao/NodeJs-Sequelize-Store-Manager-2.0-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=TypeScript-MongoDB-Car-Shop-Project)](https://github.com/VitBrandao/TypeScript-MongoDB-Car-Shop-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=Python-Job-Insights-Project)](https://github.com/VitBrandao/Python-Job-Insights-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=React-Recipes-App-Group-Project)](https://github.com/VitBrandao/React-Recipes-App-Group-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=Delivery-App-Full-Stack-Group-Project )](https://github.com/VitBrandao/Delivery-App-Full-Stack-Group-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=React-Recipes-App-Group-Project)](https://github.com/VitBrandao/React-Recipes-App-Group-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitBrandao&repo=MySQL-One-For-All-Project)](https://github.com/VitBrandao/MySQL-One-For-All-Project)
 

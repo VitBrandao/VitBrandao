@@ -66,7 +66,7 @@ Skills
 
 > IDIOMAS
 - **Português** (Nativo);
-- **Inglês** (Avançado | 99/120 Toefl iBT);
+- **Inglês** (Avançado | 99 pts. Toefl iBT score);
 - **Espanhol** (Intermediário);
 - **Francês** (Básico).
 

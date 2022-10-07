@@ -65,9 +65,10 @@ Skills
 
 
 > IDIOMAS
-- **Português** (nativo);
-- **Inglês** (99/120 Toefl iBT);
-- **Espanhol** (intermediário).
+- **Português** (Nativo);
+- **Inglês** (Avançado | 99/120 Toefl iBT);
+- **Espanhol** (Intermediário);
+- **Francês** (Básico).
 
 ---
 # :us: Hello and welcome! :wave:

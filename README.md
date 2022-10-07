@@ -78,7 +78,7 @@ Skills
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 
 [<img alt="Skills" src="https://img.shields.io/badge/-Full_List_of_Skills-000000?style=for-the-badge&&color=9cf">](#skills)
-[<img alt="Projetos" src="https://img.shields.io/badge/Personal_Projects-000000?style=for-the-badge&&color=inactive">](#projetos)
+[<img alt="Projetos" src="https://img.shields.io/badge/Personal_Projects-000000?style=for-the-badge&&color=informational">](#projetos)
 
 As you can see, I am a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation **at [Trybe](https://www.betrybe.com/)**. In my Repositories you can find all the projects I have developed in this last year.
 

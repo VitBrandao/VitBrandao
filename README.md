@@ -30,7 +30,7 @@ Skills
 - **React.Js** (SPA, Redux, Context API, Hooks, React Router, Class and Functional Components, Tests);
 - **JavaScript** (ES6, Fetch API, async/await, DOM, Tests);
 - **HTML** (Semantic HTML5);
-- **CSS 3** (Flexbox, Mobile First, Responsive Design);
+- **CSS 3** (Styled Components, Flexbox, Mobile First, Responsive Design);
 
 
 > BACK-END

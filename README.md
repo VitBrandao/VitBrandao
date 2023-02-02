@@ -7,11 +7,15 @@
 [<img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive">](#projetos)
 [<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&&color=critical">](https://www.linkedin.com/in/vitorbrandao-silva/)
 
-Para ir direto ao ponto, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação em **2020**:
+Desde outubro de 2022, estou trabalhando como **Desenvolvedor de Software Freelancer** para a [**Design Líquido**](https://designliquido.com.br/#sobre-nos), atuando como um dos principais contribuidores na construção da linguagem [**FolEs**](https://www.npmjs.com/package/@designliquido/foles), que funciona como um **pré-processador de CSS** tal qual o **SASS**, porém, tendo uma **sintaxe 100% em português** para possibilitar que o inglês não seja uma barreira no caminho daqueles(as) que desejem aprender programação. 
+
+A FolEs possui um propósito inclusivo e social muito significativo. A linguagem está disponível no **npm** e já é utilizada por centenas de usuários. Caso seja de seu interesse, confira minhas contribuições no [**Repositório Oficial da FolEs**](https://github.com/DesignLiquido/FolEs).
+
+Além de meu trabalho atual, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação:
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 
-Como você pode perceber, estou visando a formação como um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End**. 
+Como você pode perceber, sou um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End**. 
 
 Sinta-se à vontade para explorar meus **projetos** em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
 
@@ -73,7 +77,11 @@ Skills
 ---
 # :us: Hello and welcome! :wave:
 
-### My name is **Vitor Brandão**, I'm **brazilian** and here are some of the **programming skills** I've been studying and improving since **2020**:
+### My name is **Vitor Brandão**, I'm **brazilian** and a Full Stack Software Developer.
+
+Since October of 2022 to the present moment, I'm working as a **Freelancer Software Developer** in the [**Design Líquido**](https://designliquido.com.br) company, being one of the main contributors in the [**FolEs**](https://www.npmjs.com/package/@designliquido/foles) project, which is a 100% portuguese CSS preprocessor **availabe to download in npm**. This is a project that I'm very proud to be part of, given its social inclusion purposes.
+
+Besides that, here are some of the **programming skills** I've been studying and improving since **2020**:
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 
@@ -81,7 +89,7 @@ Skills
 [<img alt="Projetos" src="https://img.shields.io/badge/Personal_Projects-000000?style=for-the-badge&&color=informational">](#projetos)
 [<img alt="Contato" src="https://img.shields.io/badge/-Contact-000000?style=for-the-badge&logo=appveyor&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
 
-As you can see, I am a **Full-Stack Developer**, since I'm studying both **Front-End** and **Back-End**. In September of 2022, I am about to conclude my Full Stack formation **at [Trybe](https://www.betrybe.com/)**. In my Repositories you can find all the projects I have developed in this last year.
+As you can see, I'm able to code in both **Front-End** and **Back-End** since I concluded my Full Stack formation **at [Trybe](https://www.betrybe.com/)** in September of 2022. In my Repositories you can find all the projects I have developed during this last year.
 
 And you might ask: "But what are those projects you talk about?". Well, let me explain it better. The Web Development course at Trybe, whose duration lasts 1 year (30 hours/week), requires that students **not only learn the stacks but also practice them**. A Trybe Project is a GitHub Repository with test coverage whose ReadMe contains a **list of requirements** to be accomplished **within a week**. I'm very proud to say that I have successfully delivered **40 projects** before the deadline - not to mention that the projects were usually developed in the same week that the content was taught.    
 

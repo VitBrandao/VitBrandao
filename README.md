@@ -9,7 +9,7 @@
 
 Desde outubro de 2022, estou trabalhando como **Desenvolvedor de Software Freelancer** para a [**Design Líquido**](https://designliquido.com.br/#sobre-nos), atuando como um dos principais contribuidores na construção da linguagem [**FolEs**](https://www.npmjs.com/package/@designliquido/foles), que funciona como um **pré-processador de CSS** tal qual o **SASS**, porém, tendo uma **sintaxe 100% em português** para possibilitar que o inglês não seja uma barreira no caminho daqueles(as) que desejem aprender programação. 
 
-A FolEs possui um propósito inclusivo e social muito significativo. A linguagem está disponível no **npm** e já é utilizada por centenas de usuários. Caso seja de seu interesse, confira minhas contribuições no [**Repositório Oficial da FolEs**](https://github.com/DesignLiquido/FolEs).
+A FolEs possui um **propósito social inclusivo** muito significativo. A linguagem está disponível no **npm** e já é utilizada por centenas de usuários. Caso seja de seu interesse, confira minhas contribuições no [**Repositório Oficial da FolEs**](https://github.com/DesignLiquido/FolEs).
 
 Além de meu trabalho atual, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação:
 

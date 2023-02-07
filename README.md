@@ -79,7 +79,7 @@ Skills
 
 ### My name is **Vitor Brandão**, I'm **brazilian** and a Full Stack Software Developer.
 
-Since October of 2022 to the present moment, I'm working as a **Freelancer Software Developer** in the [**Design Líquido**](https://designliquido.com.br) company, being one of the main contributors in the [**FolEs**](https://www.npmjs.com/package/@designliquido/foles) project, which is a 100% portuguese CSS preprocessor **availabe to download in npm**. This is a project that I'm very proud to be part of, given its social inclusion purposes.
+Since October of 2022 to the present moment, I'm working as a **Freelancer Software Developer** in the [**Design Líquido**](https://designliquido.com.br) company, being one of the main contributors in the [**FolEs**](https://www.npmjs.com/package/@designliquido/foles) project, which is a 100% portuguese CSS preprocessor **availabe to download in npm**. This is a project that I'm very proud to be part of, given its social inclusion purposes. You can download FolEs through npm or go directly to the [**language official Repository**](https://github.com/DesignLiquido/FolEs) and check my contributions.
 
 Besides that, here are some of the **programming skills** I've been studying and improving since **2020**:
 

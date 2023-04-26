@@ -33,17 +33,19 @@ Skills
 
 
 > FRONT-END
-- **React.Js** (SPA, Redux, Context API, Hooks, React Router, Class and Functional Components, Tests);
+- **React.Js** (Next.js, Redux, Context API, Hooks, React Router, Class and Functional Components, Tests);
+- **Vue.Js** (Nuxt2);
 - **JavaScript** (ES6, Fetch API, async/await, DOM, Tests);
 - **HTML** (Semantic HTML5);
 - **CSS 3** (Styled Components, Flexbox, Mobile First, Responsive Design);
+- **CSS Chakra UI**.
 
 
 > BACK-END
 - **Node.Js** (ORM, Express, Rest API, MVC, JWT, Dotenv, Insomnia.rest, Tests);
 - **TypeScript** (Oriented Object Programming, SOLID);
 - **Python** (.Venv, Data Scraping, Json, Xml, Csv, Tests);
-- **MySQL** (Sequelize, mysql2, JOINs, Workbench);
+- **MySQL** (Sequelize, Prisma, mysql2, JOINs, Workbench);
 - **MongoDB** (Mongoose).
 
 

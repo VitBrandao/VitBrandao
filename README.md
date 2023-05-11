@@ -7,13 +7,13 @@
 [<img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive">](#projetos)
 [<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&&color=critical">](https://www.linkedin.com/in/vitorbrandao-silva/)
 
-Atualmente, trabalho como **Desenvolvedor Full Stack de Software** na [**Younner**](https://www.younner.com/). 
-
-Desde outubro de 2022, também contribuo como **Desenvolvedor de Software Freelancer** para a [**Design Líquido**](https://designliquido.com.br/#sobre-nos), atuando como um dos principais contribuidores na construção da linguagem [**FolEs**](https://www.npmjs.com/package/@designliquido/foles), que funciona como um **pré-processador de CSS** tal qual o **SASS**, porém, tendo uma **sintaxe 100% em português** para possibilitar que o inglês não seja uma barreira no caminho daqueles(as) que desejem aprender programação. 
+Desde outubro de 2022, trabalho como **Desenvolvedor de Software Freelancer** para a [**Design Líquido**](https://designliquido.com.br/#sobre-nos), atuando como um dos principais contribuidores na construção da linguagem [**FolEs**](https://www.npmjs.com/package/@designliquido/foles), que funciona como um **pré-processador de CSS** tal qual o **SASS**, porém, tendo uma **sintaxe 100% em português** para possibilitar que o inglês não seja uma barreira no caminho daqueles(as) que desejem aprender programação. 
 
 A FolEs possui um **propósito social inclusivo** muito significativo. A linguagem está disponível no **npm** e já é utilizada por centenas de usuários. Caso seja de seu interesse, confira minhas contribuições no [**Repositório Oficial da FolEs**](https://github.com/DesignLiquido/FolEs).
 
-Além de meu trabalho atual, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação:
+Também trabalhei como **Desenvolvedor Web Full Stack** para a [**Younner**](https://www.younner.com/), desenvolvendo o Front-End do aplicativo Sicredi Reserve, utilizando ferramentas como React, Next.Js, CSS Chakra UI e o próprio GitHub. 
+
+Além de minhas atuações profissionais, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação:
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 

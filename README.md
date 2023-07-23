@@ -2,10 +2,10 @@
 ### Me chamo **Vitor Brandão** e sou um **Desenvolvedor Web Full Stack** formado na [Trybe](https://www.betrybe.com/).
 
 [<img alt="English" src="https://img.shields.io/badge/English_Translation-000000?style=for-the-badge&&color=informational">](#us-hello-and-welcome-wave)
-[<img alt="Contato" src="https://img.shields.io/badge/-Contato-000000?style=for-the-badge&logo=appveyor&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
-[<img alt="Skills" src="https://img.shields.io/badge/-Stacks_&_Skills-000000?style=for-the-badge&&color=9cf">](#skills)
-[<img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive">](#projetos)
-[<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&&color=critical">](https://www.linkedin.com/in/vitorbrandao-silva/)
+[<img alt="Experiência" src="https://img.shields.io/badge/Experiência_Profissional-000000?style=for-the-badge&logo=appveyor&&color=blueviolet&logo=&logoColor=white">](#experiência-profissional)
+[<img alt="Contato" src="https://img.shields.io/badge/-Contato-000000?style=for-the-badge&logo=appveyor&&color=9cf&logo=&logoColor=white">](#informações-de-contato)
+[<img alt="Skills" src="https://img.shields.io/badge/-Stacks_&_Skills-000000?style=for-the-badge&&color=inactive">](#skills)
+[<img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=critical">](#projetos)
 
 Atualmente, atuo como desenvolvedor freelancer **em projetos de duas empresas**. No projeto mais recente, iniciado em **Julho de 2023**, estou trabalhando como **Desenvolvedor Front-End** para a empresa [**Brava**](https://www.bravasistemas.com.br/) no desenvolvimento da parte visual do sistema de inspeções mensais de equipamentos de proteção contra incêndios. O aplicativo está sendo estruturado com o framework **Quasar (Vue.Js)** e a estilização com **SCSS**.
 
@@ -105,9 +105,10 @@ Besides that, here are some of the **programming skills** I've been studying and
 
 <img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 
+[<img alt="Experiência" src="https://img.shields.io/badge/-Profissional_Experience-000000?style=for-the-badge&logo=appveyor&&color=blueviolet&logo=&logoColor=white">](#professional-experience)
 [<img alt="Skills" src="https://img.shields.io/badge/-Full_List_of_Skills-000000?style=for-the-badge&&color=9cf">](#skills)
 [<img alt="Projetos" src="https://img.shields.io/badge/Personal_Projects-000000?style=for-the-badge&&color=informational">](#projetos)
-[<img alt="Contato" src="https://img.shields.io/badge/-Contact-000000?style=for-the-badge&logo=appveyor&&color=blueviolet&logo=&logoColor=white">](#informações-de-contato)
+[<img alt="Contato" src="https://img.shields.io/badge/-Contact-000000?style=for-the-badge&logo=appveyor&&color=critical&logo=&logoColor=white">](#informações-de-contato)
 
 As you can see, I'm able to code in both **Front-End** and **Back-End** since I concluded my Full Stack formation **at [Trybe](https://www.betrybe.com/)** in September of 2022. In my Repositories you can find all the projects I have developed during this last year.
 

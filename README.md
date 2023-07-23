@@ -7,6 +7,8 @@
 [<img alt="Projetos" src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&&color=inactive">](#projetos)
 [<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&&color=critical">](https://www.linkedin.com/in/vitorbrandao-silva/)
 
+Atualmente, atuo como desenvolvedor freelancer **em projetos de duas empresas**. No projeto mais recente, iniciado em **Julho de 2023**, estou trabalhando como **Desenvolvedor Front-End** para a empresa [**Brava**](https://www.bravasistemas.com.br/) no desenvolvimento da parte visual do sistema de inspeções mensais de equipamentos de proteção contra incêndios. O aplicativo está sendo estruturado com o framework **Quasar (Vue.Js)** e a estilização com **SCSS**.
+
 Desde outubro de 2022, trabalho como **Desenvolvedor de Software Freelancer** para a [**Design Líquido**](https://designliquido.com.br/#sobre-nos), atuando como um dos principais contribuidores na construção da linguagem [**FolEs**](https://www.npmjs.com/package/@designliquido/foles), que funciona como um **pré-processador de CSS** tal qual o **SASS**, porém, tendo uma **sintaxe 100% em português** para possibilitar que o inglês não seja uma barreira no caminho daqueles(as) que desejem aprender programação. 
 
 A FolEs possui um **propósito social inclusivo** muito significativo. A linguagem está disponível no **npm** e já é utilizada por centenas de usuários. Caso seja de seu interesse, confira minhas contribuições no [**Repositório Oficial da FolEs**](https://github.com/DesignLiquido/FolEs).
@@ -27,6 +29,20 @@ Ao longo dessa jornada de aprendizado, desenvolvi cerca de **40 projetos dentro 
 
 Como o GitHub é uma plataforma conhecida no mundo inteiro, opto por deixá-lo em inglês, da mesma forma que estou acostumado a nomear arquivos e variáveis de meus códigos também em inglês. Mas caso fique com alguma dúvida, sinta-se à vontade para **entrar em contato via e-mail ou Linkedin**, onde podemos conversar em português :blush:.
 
+Experiência Profissional
+---------
+### 1. Desenvolvedor de Software | [**Design Líquido**](https://designliquido.com.br/#sobre-nos)
+- **Competências**: JavaScript · TypeScript · Jest · CSS · GitHub
+- Out/2022 - presente **(10 meses)**
+
+### 2. Desenvolvedor Front-End | [**Brava (Proteção contra Incêndios)**](https://www.bravasistemas.com.br/) 
+- **Competências**: Vue.Js · Quasar · SCSS · JavaScript · GitHub
+- Jul/2023 - presente **(1 mês)**
+
+### 3. Desenvolvedor Full Stack | [**Younner**](https://www.younner.com/)
+- **Competências**: Next.js · React.js · JavaScript · CSS ChakraUI · Node.js · GitHub
+- Mar/2023 - Mai/2023 **(3 meses)** 
+
 Skills
 ---------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBrandao&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,10 +50,10 @@ Skills
 
 > FRONT-END
 - **React.Js** (Next.js, Redux, Context API, Hooks, React Router, Class and Functional Components, Tests);
-- **Vue.Js** (Nuxt2);
+- **Vue.Js** (Quasar, Nuxt, Pinia);
 - **JavaScript** (ES6, Fetch API, async/await, DOM, Tests);
 - **HTML** (Semantic HTML5);
-- **CSS 3** (Styled Components, Flexbox, Mobile First, Responsive Design);
+- **CSS 3** (SCSS, Styled Components, Chakra UI, Material UI, Mobile First, Responsive Design);
 - **CSS Chakra UI**.
 
 
@@ -98,6 +114,20 @@ As you can see, I'm able to code in both **Front-End** and **Back-End** since I 
 And you might ask: "But what are those projects you talk about?". Well, let me explain it better. The Web Development course at Trybe, whose duration lasts 1 year (30 hours/week), requires that students **not only learn the stacks but also practice them**. A Trybe Project is a GitHub Repository with test coverage whose ReadMe contains a **list of requirements** to be accomplished **within a week**. I'm very proud to say that I have successfully delivered **40 projects** before the deadline - not to mention that the projects were usually developed in the same week that the content was taught.    
 
 Make yourself at home and feel free to search about these skills in my **Repositories**, because I imagine that, if you are visiting my GitHub, my codes may explain better than my words. 
+
+Professional Experience
+---------
+### 1. Software Developer | [**Design Líquido**](https://designliquido.com.br/#sobre-nos) 
+- **Skills**: JavaScript · TypeScript · Jest · CSS · GitHub
+- Oct/2022 - present **(10 months)**
+
+### 2. Front-End Developer | [**Brava (Proteção contra Incêndios)**](https://www.bravasistemas.com.br/) 
+- **Skills**: Vue.Js · Quasar · SCSS · JavaScript · GitHub
+- Jul/2023 - present **(1 month)**
+
+### 3. Full Stack Web Developer | [**Younner**](https://www.younner.com/)
+- **Skills**: Next.js · React.js · JavaScript · CSS ChakraUI · Node.js · GitHub
+- Mar/2023 - May/2023 **(3 months)** 
 
 ---
 

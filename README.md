@@ -54,7 +54,6 @@ Skills
 - **JavaScript** (ES6, Fetch API, async/await, DOM, Tests);
 - **HTML** (Semantic HTML5);
 - **CSS 3** (SCSS, Styled Components, Chakra UI, Material UI, Mobile First, Responsive Design);
-- **CSS Chakra UI**.
 
 
 > BACK-END

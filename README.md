@@ -33,15 +33,15 @@ Experiência Profissional
 ---------
 ### 1. Desenvolvedor de Software | [**Design Líquido**](https://designliquido.com.br/#sobre-nos)
 - **Competências**: JavaScript · TypeScript · Jest · CSS · GitHub
-- Out/2022 - presente 
+- Freelancer | Out/2022 - presente
 
 ### 2. Desenvolvedor Front-End | [**Brava (Proteção contra Incêndios)**](https://www.bravasistemas.com.br/) 
 - **Competências**: Vue.Js · Quasar · SCSS · JavaScript · GitHub
-- Jul/2023 - presente 
+- Freelancer | Jul/2023 - presente 
 
 ### 3. Desenvolvedor Full Stack | [**Younner**](https://www.younner.com/)
 - **Competências**: Next.js · React.js · JavaScript · CSS ChakraUI · Node.js · GitHub
-- Mar/2023 - Mai/2023 
+- Autônomo | Mar/2023 - Mai/2023 
 
 Skills
 ---------
@@ -120,15 +120,15 @@ Professional Experience
 ---------
 ### 1. Software Developer | [**Design Líquido**](https://designliquido.com.br/#sobre-nos) 
 - **Skills**: JavaScript · TypeScript · Jest · CSS · GitHub
-- Oct/2022 - present 
+- Freelancer | Oct/2022 - present 
 
 ### 2. Front-End Developer | [**Brava (Proteção contra Incêndios)**](https://www.bravasistemas.com.br/) 
 - **Skills**: Vue.Js · Quasar · SCSS · JavaScript · GitHub
-- Jul/2023 - present
+- Freelancer | Jul/2023 - present
 
 ### 3. Full Stack Web Developer | [**Younner**](https://www.younner.com/)
 - **Skills**: Next.js · React.js · JavaScript · CSS ChakraUI · Node.js · GitHub
-- Mar/2023 - May/2023 
+- Autonomous | Mar/2023 - May/2023 
 
 ---
 

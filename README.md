@@ -17,8 +17,6 @@ Também trabalhei como **Desenvolvedor Web Full Stack** para a [**Younner**](htt
 
 Além de minhas atuações profissionais, aqui estão as **tecnologias** que venho estudando e praticando desde que comecei a estudar programação:
 
-<img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
-
 Como você pode perceber, sou um **Desenvolvedor Full Stack**, uma vez que estou focado tanto em **Front-End** quanto no **Back-End**. 
 
 Sinta-se à vontade para explorar meus **projetos** em meus **Repositórios** e analisar a forma como eu costumo programar, pois imagino que, se você veio até meu GitHub, meus **códigos** serão mais explicativos do que minhas palavras. 
@@ -101,8 +99,6 @@ Skills
 Since October of 2022 to the present moment, I'm working as a **Freelancer Software Developer** in the [**Design Líquido**](https://designliquido.com.br) company, being one of the main contributors in the [**FolEs**](https://www.npmjs.com/package/@designliquido/foles) project, which is a 100% portuguese CSS preprocessor **availabe to download in npm**. This is a project that I'm very proud to be part of, given its social inclusion purposes. You can download FolEs through npm or go directly to the [**language official Repository**](https://github.com/DesignLiquido/FolEs) and check my contributions.
 
 Besides that, here are some of the **programming skills** I've been studying and improving since **2020**:
-
-<img src="my-coding-stacks-template.png" alt="my-skills" width="800" height="100" />
 
 [<img alt="Experiência" src="https://img.shields.io/badge/-Profissional_Experience-000000?style=for-the-badge&logo=appveyor&&color=blueviolet&logo=&logoColor=white">](#professional-experience)
 [<img alt="Skills" src="https://img.shields.io/badge/-Full_List_of_Skills-000000?style=for-the-badge&&color=9cf">](#skills)
